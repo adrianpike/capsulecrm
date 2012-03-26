@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "capsulecrm/version"
 
 Gem::Specification.new do |s|
-  s.name        = "capsulecrmii"
+  s.name        = "capsulecrm"
   s.version     = CapsuleCRM::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Ahmed Adam", "dsimard"]
